@@ -6,14 +6,14 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>SB Admin 2 Demo</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        This is a demo based upon PhoneGap Start 3.5.0 to show an StartBootstrap theme.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://redkakapo.at" email="redkakapo.at@gmail.com">
+        redkakapo and PhoneGap Team
     </author>
 
     <!--
